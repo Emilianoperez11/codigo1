@@ -1,0 +1,9 @@
+horas=8
+
+if(horas<=8):
+  pagoT=8*200
+elif(horas<8):
+     horas=horas-8
+     pagoT=(horas*360) + (8 * 200)
+
+print("el pago total es ",pagoT)

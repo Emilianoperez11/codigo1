@@ -1,0 +1,10 @@
+#codigodepromediodecalificaciones
+
+cal1=9
+cal2=6
+cal3=6
+cal4=7
+cal5=8
+
+promedio=(cal1 + cal2 + cal3 + cal4 + cal5)/5
+print("promedio es",promedio)
